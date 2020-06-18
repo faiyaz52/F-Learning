@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Fiayaz Alam",
+      "email": "fiayaz52@gmail.com",
+      "position": "front-End",
+      "mobile": "8553586797",
+      "city": "Bangalore"
+    },
+    {
+      "name": "Faiyaz",
+      "email": "alambeg007@gmail.com",
+      "position": "Front-End",
+      "mobile": "8553586797",
+      "city": "BENGALURU",
+      "id": 3
+    },
+    {
+      "name": "Faiyaz",
+      "email": "alambeg007@gmail.com",
+      "position": "Front-End",
+      "mobile": "8553586797",
+      "city": "BENGALURU",
+      "id": 4
+    }
+  ]
+}
